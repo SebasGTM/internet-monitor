@@ -1,0 +1,6 @@
+{
+    "targets": ["8.8.8.8"],
+    "pingInterval": 2000,
+    "logDir": "./logs",
+    "highPingThreshold": 50
+}
